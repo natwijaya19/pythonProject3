@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Create daily stock return using random integer numpy
 low = -30
-high = 36
+high = 35
 num_days = 1000
 num_symbols = 20
 np_size = (num_days, num_symbols)
